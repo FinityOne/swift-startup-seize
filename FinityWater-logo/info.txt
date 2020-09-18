@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Andada-Regular
+font link: https://fonts.google.com/specimen/Andada
+font author: Huerta Tipográfica
+font author site: https://www.huertatipografica.com/en
+
+
+icon designer: Nice and Serious
+icon designer link: /niceandserious
+        
+{"bg":"#0B345A","icon":"#22C4D6","font":"#22C4D6","slogan":"#36d8ea"}
+      
